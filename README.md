@@ -16,10 +16,10 @@
 
 ### Webfresh! (2020 portfolio)
 
-<img src="wf_screenshot.png" height="180px">
-
 This past year, I took a long look at my online web presence. It was apparent that I had outgrown my simple [liamhockley.me](https://liamhockley.me) Github Pages site. 
 
 I needed to build something that could showcase a significant amount of learning and growth over the past few years, and into the future. At this time, I also wanted to focus on my love for frontend tooling and technologies. I also wanted to start building a more thought out personal brand... 
 
 [Webfresh](https://www.webfreshdev.com) was born! 
+
+[<img src="wf_screenshot.png" height="180px">](https://www.webfreshdev.com)
