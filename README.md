@@ -22,4 +22,4 @@ I needed to build something that could showcase a significant amount of learning
 
 [Webfresh](https://www.webfreshdev.com) was born! 
 
-[<img src="wf_screenshot.png" height="180px">](https://www.webfreshdev.com)
+[<img src="https://github.com/xdega/xdega/blob/master/wf_screenshot.png" height="180px">](https://www.webfreshdev.com)
