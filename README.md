@@ -7,11 +7,11 @@
 - Hobbies include... 📷 Photography, 🛫 Travel, 🎮 Simulation Games 
 
 ### Current Projects/Goals
-- Searching for the next chapter in my Web Development Career
+- Searching for the next chapter in my Web Development career
 - Early design stages of a couple of new private projects.
 - Fix Bugs and Enhancements for Webfresh
-- Learn JSON:API Rest API standard.
-- Learn PWA's, Typescript, Redux.
+- Learn **JSON:API** Rest API standard.
+- Learn **PWA**, **Typescript**, and **Redux**.
 - Learn payment gateway APIs
 
 ### Webfresh! (2020 portfolio)
