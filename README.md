@@ -1,4 +1,7 @@
 ## Greetings 👋
+[<img src="https://github.com/xdega/xdega/blob/master/profile_hero.gif" height="200px">](#)
+
+*"Dirty" JS/CSS sandbox for above animation: https://codepen.io/xdega/pen/VwexgPm*
 
 ### Some facts about me:
 
