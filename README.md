@@ -16,7 +16,7 @@
 
 ### Webfresh! (2020 portfolio)
 
-![Webfresh Screenshot](wf_screenshot.png "Webfresh Screenshot")
+<img src="wf_screenshot.png" height="180px">
 
 This past year, I took a long look at my online web presence. It was apparent that I had outgrown my simple [liamhockley.me](https://liamhockley.me) Github Pages site. 
 
