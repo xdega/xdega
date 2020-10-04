@@ -6,16 +6,14 @@
 ### Some facts about me:
 
 - Many would call me a "nerd", and I am okay with this 🧠 (I enjoy a good documentary or tech talk)
-- A fascination with the world wide web 🌎 🖥 has been present for most of my life (since early 2000s)
+- I have been fascinated with the WWW since the late 90s, when I was a teenager 🌎 🖥
 - Hobbies include... 📷 Photography, 🛫 Travel, 🎮 Simulation Games 
 
 ### Current Projects/Goals
 - Searching for the next chapter in my Web Development career
-- Early design stages of a couple of new private projects.
 - Fix Bugs and Enhancements for Webfresh
-- Learn **JSON:API** Rest API standard.
-- Learn **PWA**, **Typescript**, and **Redux**.
-- Learn payment gateway APIs
+- Continue to master Drupal 8/9, including custom module development.
+- Create a simple PWA before the end of 2020
 
 ### Webfresh! (2020 portfolio)
 
