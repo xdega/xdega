@@ -1,8 +1,11 @@
-## Hello 👋
+## Hello, World! 👋 :earth_americas:
 
-### Current Projects/Goals
+### Projects/Goals
 
-Working on a new profile README.md ... stay tuned.
+* Looking for my next software developmemt role. (http://liamhockley.me/)
+* Working on various open source Drupal projects and initiatives. (https://www.drupal.org/u/lhockley)
+* Working alongside some friends to build a Discord bot in Python. (https://github.com/xdega/nerdbot)
+* Hoping to make a cool new profile README.md... soon.
 
 ### Statistics
 
